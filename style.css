@@ -1,0 +1,11 @@
+body{
+    padding: 100px;
+}
+.login-area{
+    padding: 50px;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 15px;
+}
+.input-area{
+    margin: 50px;
+}
